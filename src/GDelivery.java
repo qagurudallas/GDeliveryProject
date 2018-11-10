@@ -12,7 +12,7 @@ public class GDelivery {
         return 0;
     }
 
-    
+    //adding comments
 
     public int PriceForDistanceAndStairs(int distance) {
         {
